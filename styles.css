@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.col-sm {
+  padding-top: 2em;
+}
+
+footer {
+  display: flex;
+  flex: 1 0 auto;
+}
